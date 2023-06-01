@@ -125,5 +125,6 @@ OUTPUT:
 ![image](https://github.com/Srinixx/Experiment-2--Implementation-of-Perceptron/assets/132982592/a4be8652-16f4-4e5b-a3b1-b21e71dfe4af)
 
 RESULT:
+
 Thus ,a perceptron for classification using Python is executed successfully.
 
