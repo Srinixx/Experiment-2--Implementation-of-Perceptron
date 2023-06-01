@@ -43,7 +43,9 @@ Print the accuracy
 
 
  PROGRAM:
+ 
  Developed By: SHREENIVASH V
+ 
 Reg No.: 212221040153
  ```
  import numpy as np
@@ -117,6 +119,7 @@ plt.ylabel('Errors')
 plt.show()
 ```
 OUTPUT:
+
 ![image](https://github.com/Srinixx/Experiment-2--Implementation-of-Perceptron/assets/132982592/11983576-72ac-4b72-8ad2-7002e57685f2)
 
 ![image](https://github.com/Srinixx/Experiment-2--Implementation-of-Perceptron/assets/132982592/a4be8652-16f4-4e5b-a3b1-b21e71dfe4af)
